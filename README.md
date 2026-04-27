@@ -14,7 +14,7 @@ Configure unique damage, concussion effects, and 3D sounds for **each item in th
 
 ## **📥 Installation**
 
-1. Download the latest plugin release: the ThrowDamagePlugin.dll file from the [**Releases**](http://docs.google.com/releases) tab.  
+1. Download the latest plugin release: the ThrowDamagePlugin.dll file from the [**Releases**](https://github.com/AlekseyMatsuk/Throw-Damage/releases) tab.  
 2. Place the file into the LabAPI plugins folder of your server:  
    %appdata%\\SCP Secret Laboratory\\LabAPI\\plugins\\\<server\_port\>\\  
 3. Start the server once so the plugin generates the configuration file.  
@@ -61,4 +61,4 @@ custom\_items:
 * [**LabAPI**](https://github.com/Northwood-Studios/LabAPI) (version 1.1.6 or higher)  
 * [**AudioPlayer**](https://github.com/Antoniofo/AudioPlayer) (required to play the 3D sounds)
 
-*Created by [Annorda](https://github.com/YourUsername). If you have any questions or suggestions, join our [Discord](https://discord.gg/Y9hSPXAcdG).*
+*Created by [Annorda](). If you have any questions or suggestions, join our [Discord](https://discord.gg/Y9hSPXAcdG).*
