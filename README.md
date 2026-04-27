@@ -18,7 +18,7 @@ Configure unique damage, concussion effects, and 3D sounds for **each item in th
 2. Place the file into the LabAPI plugins folder of your server:  
    %appdata%\\SCP Secret Laboratory\\LabAPI\\plugins\\\<server\_port\>\\  
 3. Start the server once so the plugin generates the configuration file.  
-4. Place your audio files (.ogg) into the **AudioPlayer** folder located in your EXILED directory (usually %appdata%\\SCP Secret Laboratory\\EXILED\\Configs\\Audio or similar).
+4. Place your audio files (.ogg) into the **AudioPlayer** folder located in your EXILED directory (usually %appdata%\\EXILED\\Configs\\Audio or similar).
 
 ## **⚙️ Configuration (Throw Damage.yml)**
 
